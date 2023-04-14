@@ -1,0 +1,46 @@
+
+
+[
+    {
+      "id": 1,
+      "name": "The Beatles",
+      "active": false,
+      "year_formed": 1960,
+      "photo_url": "https://www.billboard.com/files/styles/article_main_image/public/media/The-Beatles-1967-portrait-billboard-1548.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Led Zeppelin",
+      "active": false,
+      "year_formed": 1968,
+      "photo_url": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-163342-20120413-led_zeppelin_606x440-1334308714.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Pink Floyd",
+      "active": false,
+      "year_formed": 1965,
+      "photo_url": "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-175360-r0749-pinkfloyd-617-1001-1498834044.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Queen",
+      "active": false,
+      "year_formed": 1970,
+      "photo_url": "https://i.pinimg.com/originals/9d/20/ed/9d20ed5bb73abeb1438a31247d78b305.jpg"
+    },
+    {
+      "id": 5,
+      "name": "AC/DC",
+      "active": true,
+      "year_formed": 1973,
+      "photo_url": "https://www.rollingstone.com/wp-content/uploads/2020/07/ACDC_ChrisWalter_getty_157027482-e1595949032259.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Guns N' Roses",
+      "active": true,
+      "year_formed": 1985,
+      "photo_url": "https://www.rollingstone.com/wp-content/uploads/2018/06/guns_n_roses_2016_eugene_gologursky_getty_images_for_siriusxm_8475-copy-0cc2d11b-90e6-4ac4-8d8c-3e1c3d25841a.jpg"
+    },
+]
