@@ -1,15 +1,72 @@
-[
+  [
     {
-        "id":"1",
-        "name": 
-        "active":
-        "current "band"
-        link to image
-
-
-
-
-
+      "id": 1,
+      "name": "John Lennon",
+      "active": false,
+      "band": "The Beatles",
+      "photo_url": "https://www.udiscovermusic.com/wp-content/uploads/2019/08/The-Beatles-Abbey-Road-Album-Cover.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Jimmy Page",
+      "active": false,
+      "band": "Led Zeppelin",
+      "photo_url": "https://www.rollingstone.com/wp-content/uploads/2019/11/rs-18712-20190506-133533.jpg"
+    },
+    {
+      "id": 3,
+      "name": "David Gilmour",
+      "active": false,
+      "band": "Pink Floyd",
+      "photo_url": "https://www.rollingstone.com/wp-content/uploads/2019/05/rs-155206-20180918-davidgilmour-rh-1800-1537340879.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Freddie Mercury",
+      "active": false,
+      "band": "Queen",
+      "photo_url": "https://static.billboard.com/files/2021/07/Queen-1985-billboard-1548-1627549209-compressed.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Angus Young",
+      "active": true,
+      "band": "AC/DC",
+      "photo_url": "https://www.rollingstone.com/wp-content/uploads/2020/09/GettyImages-3009019.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Axl Rose",
+      "active": true,
+      "band": "Guns N' Roses",
+      "photo_url": "https://www.rollingstone.com/wp-content/uploads/2020/06/axl-rose-2018.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Paul McCartney",
+      "active": false,
+      "band": "The Beatles",
+      "photo_url": "https://www.rollingstone.com/wp-content/uploads/2019/11/rs-255733-beatles-getty-969x643.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Robert Plant",
+      "active": false,
+      "band": "Led Zeppelin",
+      "photo_url": "https://www.rollingstone.com/wp-content/uploads/2019/11/rs-289298-led-zeppelin-1975.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Roger Waters",
+      "active": false,
+      "band": "Pink Floyd",
+      "photo_url": "https://www.rollingstone.com/wp-content/uploads/2021/05/rs-211889-80206635.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Brian May",
+      "active": false,
+      "band": "Queen",
+      "photo_url": "https://www.udiscovermusic.com/wp-content/uploads/2018/11/Queen-News-3.jpg"
     }
-
 ]

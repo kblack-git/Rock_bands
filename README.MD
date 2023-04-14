@@ -35,3 +35,8 @@ Here are the request methods:
     }
       
 ```
+
+`musicians/` - GET
+`musicians/:id` - GET
+`musicians/` - POST
+
